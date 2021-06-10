@@ -1,0 +1,2198 @@
+----- info -----
+[i] The config file:  modules/cfg/yolov3-face.cfg
+[i] The weights of model file:  modules/model-weights/yolov3-wider_16000.weights
+[i] Path to image file:  None
+[i] Path to video file:  /home/dheeraj/ML/yoloface v4/Super30 clip.mp4
+###########################################################
+
+==> Skipping create the outputs/ directory...
+Videowriter: True
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 0 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: []
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 7 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 7 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 14 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 13 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 18 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 17 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 16 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 15 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 76 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 76 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 80 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 68 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 69 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 71 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 80 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 81 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 79 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 74 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 71 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 72 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 72 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 83 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'varun', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 79 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 84 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 80 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 85 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 82 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 73 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 77 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'dheeraj', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 75 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 85 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 85 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 86 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 83 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 80 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 87 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 90 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 88 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 90 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 94 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 92 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 91 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 87 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'immanuel', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 92 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 89 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 95 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 8 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 7 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 12 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 9 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 11 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 10 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 4 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 3 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 2 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown', 'Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (1080, 1920, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> Done processing!!!
+[i] ==> Output file is stored at outputs/Super30 clip_yoloface.avi
+==> All done!
+***********************************************************

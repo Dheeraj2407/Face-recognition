@@ -1,0 +1,26 @@
+Positive test
+
+filename=dheeraj.mp4
+total frames=494
+correct classifications=476
+misclassifications=18
+476+18=494
+Accuracy=96.35627530364373%
+
+filename=Facevarun2.mp4
+total frames=248
+correct classifications=215
+misclassifications=34
+215+34=248
+Accuracy=86.69354838709677%
+
+
+Negative Test
+
+filename=Super30 clip.mp4
+total faces in frames=6479
+correct classifications=6468
+misclassifications=2+8+1=11
+6468+11=6479
+Accuracy=99.830220713073%
+

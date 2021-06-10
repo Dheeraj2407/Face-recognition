@@ -1,0 +1,1253 @@
+----- info -----
+[i] The config file:  modules/cfg/yolov3-face.cfg
+[i] The weights of model file:  modules/model-weights/yolov3-wider_16000.weights
+[i] Path to image file:  None
+[i] Path to video file:  /home/dheeraj/ML/yoloface v4/FaceVarun2.mp4
+###########################################################
+
+==> Skipping create the outputs/ directory...
+Videowriter: True
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['immanuel']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['Unknown']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> # detected faces: 1 dims: (720, 1280, 3)
+############################################################
+
+Faces recognized: ['varun']
+Frame written
+[i] ==> Done processing!!!
+[i] ==> Output file is stored at outputs/FaceVarun2_yoloface.avi
+==> All done!
+***********************************************************
