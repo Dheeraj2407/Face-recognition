@@ -1,1 +1,6 @@
 **/facerecog/
+outputs
+encodings/**
+faces/**
+modules/__pycache__/
+modules/model-weights/model-weights/
