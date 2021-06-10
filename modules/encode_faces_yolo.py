@@ -69,7 +69,7 @@ ap.add_argument("-d", "--detection-method", type=str, default="yolo",
 ap.add_argument('--model-cfg', type=str, default='modules/cfg/yolov3-face.cfg',
                     help='path to config file')
 ap.add_argument('--model-weights', type=str,
-                    default='modules/model-weights/yolov3-wider_16000.weights',
+                    default='modules/model-weights/model-weights/yolov3-wider_16000.weights',
                     help='path to weights of model')
 args = vars(ap.parse_args())
 
@@ -130,5 +130,6 @@ print("[INFO] writing model to file...")
 path = args['encodings']
 index = path.rfind('/')+1
 cpath = path[:index]+'clf/'+path[index:]
+os.mkdir(path[:index]+'clf/')
 pickle.dump(clf,open(cpath,'wb'))
 print("[INFO] Done written to:",cpath)

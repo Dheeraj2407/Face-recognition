@@ -8,7 +8,7 @@ choice1=easygui.buttonbox('Select what you have to do',title='Select',choices=('
 if choice1=='Add Faces':
 	trainmode=easygui.choicebox('Select training input',title='Training',choices=('Image Folder','Append from Video File'))
 	print('Trainmode:',trainmode)
-	cc=easygui.ccbox(msg='For proceeding further you must have images of people grouped in respective folder with theri names, all grouped under a single folder. If you dont have the data please click cancel and return later.')
+	cc=easygui.ccbox(msg='For proceeding further you must have images of people grouped in respective folder with their names, all grouped under a single folder. If you dont have the data please click cancel and return later.')
 	if cc:
 		if trainmode=='Image Folder':
 			dirpath=easygui.diropenbox(title='Image directory')
